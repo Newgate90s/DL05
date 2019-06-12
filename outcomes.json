@@ -1,0 +1,38 @@
+
+{"outcomes":
+  [
+        {"title": "Greetings",
+         "inputs": ["Hello","Hey","Good morning","Good evening","Good afternoon","How are you?", "Is anyone there?", "Hi" ],
+         "outputs": ["Hello","Hey","Hi", "Welcome", "How can I help you?"],
+         "dividers": ""
+        },
+     {"title": "Introductions",
+         "inputs": ["What is your name", "Who are you", "Tell me your name"],
+         "outputs": ["My name is DL05", "I am DL05"]
+        },
+        {"title": "Goodbyes",
+         "inputs": ["Bye","Later","Cya", "See you later", "Goodbye","I have to go"],
+         "outputs": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {
+          "title": "Thanks",
+         "inputs": ["Thanks", "Thank you", "Ty","That's helpful","That helped"],
+         "outputs": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {
+          "title": "UFC238when",
+         "inputs": ["When is UFC238?","When is UFC238 happening?" ],
+         "outputs": ["UFC238 is on SAT, JUN 8","UFC238 is happening on SAT, JUN 8"]
+        },
+        {
+          "title": "UFC238time",
+         "inputs": ["What time is UFC238?", "What time does UFC238 start?" ],
+         "outputs": ["UFC238 starts at SAT, JUN 8 / 7:00 PM MST for the main card"]
+        },
+        {
+          "title": "UFC238who",
+         "inputs": ["Who is fighting on UFC238?, What's the fight card for UFC238"],
+         "outputs": ["Tony Ferguson vs Donald Cerrone"]
+        }
+   ]
+}
